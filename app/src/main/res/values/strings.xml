@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">koo application</string>
-    <string name="greeting">Hello World!</string> //문자열변수를 만들어준거 ->activity_main에서 변경
+    <string name="greeting">Hello World?</string> //문자열변수를 만들어준거 ->activity_main에서 변경
 </resources>
